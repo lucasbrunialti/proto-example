@@ -6,7 +6,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/Cobliteam/proto-example/example"
+	"github.com/lucasbrunialti/proto-example/example"
 	"github.com/golang/protobuf/proto"
 )
 
@@ -39,7 +39,7 @@ func Run() {
 	data, err := proto.Marshal(test)
 	elapsed := time.Since(start)
 
-	log.Printf("Serialization in %s", elapsed)
+	log.Printf("Serialization in %d ns", elapsed.Nanoseconds())
 
 	if err != nil {
 		log.Fatal("marshaling error: ", err)
@@ -53,7 +53,7 @@ func Run() {
 	err = proto.Unmarshal(data, newTest)
 	elapsed = time.Since(start)
 
-	log.Printf("Unmarshal in %s", elapsed)
+	log.Printf("Unmarshal in %d ns", elapsed.Nanoseconds())
 
 	if err != nil {
 		log.Fatal("unmarshaling error: ", err)

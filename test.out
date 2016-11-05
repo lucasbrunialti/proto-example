@@ -398,3 +398,403 @@
 2016/11/05 02:09:30 Unmarshal in 2.824µs
 2016/11/05 02:09:30 Test as proto object%!(EXTRA string=label:"ektxjwtGti" type:381653293 reps:8896749872597186144 reps:491228992149066345 reps:1869588380163391722 )
 2016/11/05 02:09:30 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 75016 ns
+2016/11/05 13:59:35 Unmarshal in 13853 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"fJOnXJIXGH" type:1583246002 reps:239579625994570416 reps:8889570510733411114 reps:8614966678563799516 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 1702 ns
+2016/11/05 13:59:35 Unmarshal in 1134 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"uGdLAIwiHT" type:2013741273 reps:2507159412591922473 reps:93178123507107266 reps:1769884415492269254 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 857 ns
+2016/11/05 13:59:35 Unmarshal in 1109 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"noARGbcvvB" type:530580508 reps:6743848985705544038 reps:7925506800611672087 reps:2146897171980987243 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 732 ns
+2016/11/05 13:59:35 Unmarshal in 1609 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"VxsBGDLuFq" type:1705277530 reps:5191405334045846350 reps:6874107522236574991 reps:3230787639250942755 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 738 ns
+2016/11/05 13:59:35 Unmarshal in 1087 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"oUStciuDTt" type:778193578 reps:695135416753480061 reps:5273838259922971314 reps:4586061083075542477 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 699 ns
+2016/11/05 13:59:35 Unmarshal in 775 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"AornyqDrqJ" type:781150430 reps:934137985281470862 reps:5129375450175395819 reps:6761309236583235456 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 715 ns
+2016/11/05 13:59:35 Unmarshal in 840 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"TFnwoJCacS" type:345630939 reps:861354676000980181 reps:8937958289091014109 reps:5206516359232237350 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 885 ns
+2016/11/05 13:59:35 Unmarshal in 1307 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"pJVnvhylOk" type:356772232 reps:448218912973335299 reps:5398439789554909654 reps:5486527299163656016 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 1375 ns
+2016/11/05 13:59:35 Unmarshal in 1464 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"fttOBNmPoX" type:105706482 reps:4113901040201587969 reps:5228489712022441510 reps:7241047885841211678 )
+2016/11/05 13:59:35 Size of test (proto) 47 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 742 ns
+2016/11/05 13:59:35 Unmarshal in 764 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"LLnAfZyQpQ" type:4912437 reps:8019614797259950468 reps:229135073181944324 reps:7450339715092589342 )
+2016/11/05 13:59:35 Size of test (proto) 47 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 679 ns
+2016/11/05 13:59:35 Unmarshal in 4483 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"kVKDwZEZmN" type:1312990624 reps:1286903294503521801 reps:5636460457524783253 reps:4762558768638696368 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 752 ns
+2016/11/05 13:59:35 Unmarshal in 908 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"GyUGfYdXBc" type:1381355733 reps:2707356559778604806 reps:2346946903222328268 reps:7256931144944852516 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 722 ns
+2016/11/05 13:59:35 Unmarshal in 848 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"NyTZURBnbf" type:1696078274 reps:177509889698933822 reps:1079990352621371086 reps:1572397212034757029 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 1248 ns
+2016/11/05 13:59:35 Unmarshal in 995 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"epdAsULORc" type:842304532 reps:5305474502043740339 reps:6301777048602735681 reps:1224232807602056201 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 620 ns
+2016/11/05 13:59:35 Unmarshal in 780 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"yWxzLoAKWy" type:473029288 reps:58075080704905048 reps:8290733145798888839 reps:3812027606647545376 )
+2016/11/05 13:59:35 Size of test (proto) 47 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 640 ns
+2016/11/05 13:59:35 Unmarshal in 778 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"PRVifxNBkl" type:1474654851 reps:7322725923137344362 reps:6693339370730949613 reps:1611408463193225035 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 1194 ns
+2016/11/05 13:59:35 Unmarshal in 877 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"YWBSBilbSh" type:1672654000 reps:5275455578810077391 reps:8080215934812927611 reps:3164025219785864865 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 594 ns
+2016/11/05 13:59:35 Unmarshal in 1251 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"MNmWmlWEEi" type:1633688934 reps:1029625077995711712 reps:427816859090653561 reps:6994538532544302143 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 701 ns
+2016/11/05 13:59:35 Unmarshal in 777 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"QRvikpIFLl" type:1784978126 reps:4086663729724826582 reps:1115251771719815667 reps:3379172666176027651 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 634 ns
+2016/11/05 13:59:35 Unmarshal in 4749 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"zNofLEZetR" type:759334078 reps:6794564692737208356 reps:5131266092373879525 reps:4641326860876453577 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 3502 ns
+2016/11/05 13:59:35 Unmarshal in 944 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"sVVXrYjhTz" type:92300105 reps:2444504802731218932 reps:29124334931187258 reps:3362906668995387225 )
+2016/11/05 13:59:35 Size of test (proto) 46 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 611 ns
+2016/11/05 13:59:35 Unmarshal in 765 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"mlYJYEbCUA" type:2069287412 reps:2190711733973392276 reps:6051104572102401383 reps:5658859037631379250 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 872 ns
+2016/11/05 13:59:35 Unmarshal in 816 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"ZPzFsXRwTf" type:1620434339 reps:1733943735623859997 reps:2740101842430315586 reps:2870659291695739666 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 600 ns
+2016/11/05 13:59:35 Unmarshal in 677 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"AEIbDYKvvy" type:20252547 reps:1723183715236409877 reps:4624778077117644957 reps:5380332551156998534 )
+2016/11/05 13:59:35 Size of test (proto) 47 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 649 ns
+2016/11/05 13:59:35 Unmarshal in 930 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"rfwYtfavjA" type:911999765 reps:3569529535891941760 reps:6208771623103734289 reps:942221474280369010 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 615 ns
+2016/11/05 13:59:35 Unmarshal in 785 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"qCsCcVKhcF" type:612136732 reps:4260559405992426814 reps:776835902017266987 reps:1912066116575125562 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 1256 ns
+2016/11/05 13:59:35 Unmarshal in 809 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"rIbqIkXzmC" type:236103168 reps:7775264565316974051 reps:321651848912277198 reps:4850047039703464160 )
+2016/11/05 13:59:35 Size of test (proto) 47 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 738 ns
+2016/11/05 13:59:35 Unmarshal in 740 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"zfVfYaJjIq" type:292179114 reps:8724551205081229917 reps:1791309673874488100 reps:7931020437932458986 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 561 ns
+2016/11/05 13:59:35 Unmarshal in 726 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"kSPYRUrPRU" type:1585816921 reps:6007521503119744913 reps:970150686597281763 reps:4073508335490659686 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 586 ns
+2016/11/05 13:59:35 Unmarshal in 714 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"RNckMchXTF" type:278339886 reps:6701774108417205539 reps:8991238187658619117 reps:3344380196125378864 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 4058 ns
+2016/11/05 13:59:35 Unmarshal in 842 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"xUKdJxOepT" type:143453482 reps:8219198936376803424 reps:7586901322985707868 reps:8787927053690207997 )
+2016/11/05 13:59:35 Size of test (proto) 47 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 664 ns
+2016/11/05 13:59:35 Unmarshal in 723 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"ZXxPkAMGsa" type:40232644 reps:8849393824986472443 reps:6995059124215387029 reps:4594375808645663501 )
+2016/11/05 13:59:35 Size of test (proto) 47 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 529 ns
+2016/11/05 13:59:35 Unmarshal in 935 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"NhHoeGSpuW" type:392096078 reps:5085969197716100409 reps:4885546676159991927 reps:2961486010776965335 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 570 ns
+2016/11/05 13:59:35 Unmarshal in 669 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"lRriHUqeNO" type:1132481468 reps:2729489464859836538 reps:6997784695688185797 reps:4070423000142339039 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 529 ns
+2016/11/05 13:59:35 Unmarshal in 678 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"BaGgzpMFLY" type:633097430 reps:7169936168463311412 reps:2720306810558202601 reps:5247961578061898218 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 714 ns
+2016/11/05 13:59:35 Unmarshal in 731 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"jmCRrZhESP" type:1154836753 reps:5966635775156872700 reps:6084019375618702675 reps:8596765647179038088 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 570 ns
+2016/11/05 13:59:35 Unmarshal in 753 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"LZhyCiwOoy" type:690145936 reps:5650398201678875482 reps:6537212435207470652 reps:7091282711605157550 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 569 ns
+2016/11/05 13:59:35 Unmarshal in 692 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"xwAlvjvTio" type:914487048 reps:6698395257051991265 reps:2566944203060540933 reps:2048264261447046381 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 666 ns
+2016/11/05 13:59:35 Unmarshal in 810 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"tosbTjvQPt" type:381177150 reps:1929223092871516279 reps:8397299552879680865 reps:6714307365813610070 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 570 ns
+2016/11/05 13:59:35 Unmarshal in 2965 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"FyPxyEWUjt" type:138675671 reps:7247180814862543904 reps:6871085678575956189 reps:2970654833853401967 )
+2016/11/05 13:59:35 Size of test (proto) 47 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 2842 ns
+2016/11/05 13:59:35 Unmarshal in 705 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"GzliIZFKPJ" type:479684478 reps:7749398057025550225 reps:1723083912600766934 reps:8253549956151143864 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 586 ns
+2016/11/05 13:59:35 Unmarshal in 622 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"WupEPsxwlK" type:2002650702 reps:8921997537339806865 reps:1565541098816143550 reps:2065618734731836465 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 640 ns
+2016/11/05 13:59:35 Unmarshal in 738 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"EUaQajeElU" type:1801956156 reps:4939419839424941674 reps:3785280494242879483 reps:3744693776642529100 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 558 ns
+2016/11/05 13:59:35 Unmarshal in 9943 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"GFkXojQftV" type:1930297390 reps:5657126300082327930 reps:3462288048932151068 reps:2382574802327659149 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 515 ns
+2016/11/05 13:59:35 Unmarshal in 626 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"EmmDiMWWQT" type:1692284422 reps:8307185849277282756 reps:1408382500942564705 reps:2842928006504995987 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 544 ns
+2016/11/05 13:59:35 Unmarshal in 659 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"apVwSGZtzk" type:774138162 reps:5262082436203012044 reps:5986438424043139514 reps:2266658814822169664 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 521 ns
+2016/11/05 13:59:35 Unmarshal in 659 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"DeusBcHtGe" type:33449323 reps:8686081778582519213 reps:6384905944918736564 reps:3370466803849934870 )
+2016/11/05 13:59:35 Size of test (proto) 47 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 2847 ns
+2016/11/05 13:59:35 Unmarshal in 1723 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"cqzHkAGElu" type:1565207391 reps:7249277607731726038 reps:2489479660319459660 reps:4734508231737699553 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 1326 ns
+2016/11/05 13:59:35 Unmarshal in 1444 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"KzqTKlojDB" type:1016192270 reps:2756141536757508622 reps:6916449426625030197 reps:6693563180945405158 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 1236 ns
+2016/11/05 13:59:35 Unmarshal in 5970 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"HeakSJTnTB" type:1676096175 reps:5347903419806252969 reps:4754947215152256438 reps:7182236054534921059 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 1016 ns
+2016/11/05 13:59:35 Unmarshal in 1154 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"ygflXwtwNT" type:850919913 reps:8462087980030857852 reps:931336181782991490 reps:3414535621328629177 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 1167 ns
+2016/11/05 13:59:35 Unmarshal in 1324 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"RQMJQxWJyL" type:1368574794 reps:1491111872522150420 reps:702623843670136872 reps:2325020636643503698 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 4154 ns
+2016/11/05 13:59:35 Unmarshal in 4437 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"mtpFfZZzrY" type:417384872 reps:4503404783263108543 reps:944836750732103610 reps:8779991723941568374 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 1680 ns
+2016/11/05 13:59:35 Unmarshal in 1902 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"wKRUKrolDc" type:1561952293 reps:429087282300884448 reps:6567002121723821245 reps:3755720163377230143 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 1743 ns
+2016/11/05 13:59:35 Unmarshal in 9618 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"UwucqcWFuk" type:1660145594 reps:3843484392717472261 reps:2804755832015017668 reps:5620477642580741893 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 1362 ns
+2016/11/05 13:59:35 Unmarshal in 1578 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"iLRVfsFhYc" type:1388641711 reps:7047495442295082600 reps:8997560034439710034 reps:5941012824728487636 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 1323 ns
+2016/11/05 13:59:35 Unmarshal in 1808 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"wLkvTlXdzS" type:1578229905 reps:842854325489474092 reps:319847137379128299 reps:4137206931590111196 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 1165 ns
+2016/11/05 13:59:35 Unmarshal in 1371 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"yODIlxBQqe" type:1958941623 reps:3151031583549481660 reps:786271061350288268 reps:3167539279908674731 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 1126 ns
+2016/11/05 13:59:35 Unmarshal in 1444 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"pUnHdbKcHU" type:1116402219 reps:7552463716074429231 reps:1451861905223012828 reps:8667119566625782560 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 7982 ns
+2016/11/05 13:59:35 Unmarshal in 4641 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"ISTLhJLiUM" type:1621397925 reps:8696998378559010879 reps:4653230141760157491 reps:6071164111512455863 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 1850 ns
+2016/11/05 13:59:35 Unmarshal in 1421 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"SvTVsoRKqB" type:1218827185 reps:4197660817707400577 reps:9178831118259069820 reps:2819041015958464184 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 958 ns
+2016/11/05 13:59:35 Unmarshal in 965 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"hIMPPyQCdl" type:1375164577 reps:5345469905681225586 reps:8711594407995318399 reps:4130464369921223399 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 632 ns
+2016/11/05 13:59:35 Unmarshal in 739 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"QjTFVNbULx" type:923146459 reps:8698963614274320027 reps:2946492535847761059 reps:6574377623902855912 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 547 ns
+2016/11/05 13:59:35 Unmarshal in 722 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"XswHcXdbLg" type:662595703 reps:4136448047874990267 reps:7002431087305411374 reps:728595495696017534 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 518 ns
+2016/11/05 13:59:35 Unmarshal in 702 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"wRVOmqDBYv" type:997295833 reps:5042886209463058971 reps:7895575755066742187 reps:1691450024417639665 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 1382 ns
+2016/11/05 13:59:35 Unmarshal in 1560 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"ULfAiIKEKN" type:1083337052 reps:7054980914250346168 reps:9108370683479076905 reps:9139694335823498956 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 1273 ns
+2016/11/05 13:59:35 Unmarshal in 1245 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"yaGgLxvmUc" type:1795330895 reps:3569038687891018059 reps:8070934011088430749 reps:4291059398056780615 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 1170 ns
+2016/11/05 13:59:35 Unmarshal in 1481 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"dpQOsqSJyK" type:533604214 reps:6099328688044736431 reps:1755537118322021953 reps:4710199595671450320 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 1143 ns
+2016/11/05 13:59:35 Unmarshal in 1488 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"lFMtiOeZHc" type:1618285921 reps:6696020475609170373 reps:8083667620466897703 reps:4771019734291113541 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 6217 ns
+2016/11/05 13:59:35 Unmarshal in 1517 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"ufagyTbAxp" type:1693205926 reps:701187664090492541 reps:3531446731715059521 reps:784004790416016928 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 1291 ns
+2016/11/05 13:59:35 Unmarshal in 1311 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"BqMGTNGoyL" type:386812723 reps:2096217777727329011 reps:4518796483698111979 reps:7634942733921918657 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 1291 ns
+2016/11/05 13:59:35 Unmarshal in 1308 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"BFLoEidEsg" type:190313501 reps:4461714176467550111 reps:1297332050699928089 reps:4790655290590411057 )
+2016/11/05 13:59:35 Size of test (proto) 47 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 1176 ns
+2016/11/05 13:59:35 Unmarshal in 1399 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"VgTTIeWzwE" type:973862212 reps:472784928810070950 reps:3469545134818320169 reps:2636763384812408656 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 1159 ns
+2016/11/05 13:59:35 Unmarshal in 1404 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"tKgWroXFcF" type:1189447430 reps:3600535686695048861 reps:5671289663357950010 reps:399423970366560887 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 1361 ns
+2016/11/05 13:59:35 Unmarshal in 1389 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"zlKWHWKGdc" type:1663891734 reps:4756515011880439751 reps:6573143190384841622 reps:1954866945974757023 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 1242 ns
+2016/11/05 13:59:35 Unmarshal in 1336 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"hJYHiLFFaQ" type:1820987065 reps:1731946360243007305 reps:2208968111305039292 reps:9211180642549635293 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 1472 ns
+2016/11/05 13:59:35 Unmarshal in 5213 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"BJwsXMGPXl" type:721846609 reps:4123602241890520709 reps:760244257798671080 reps:1421394799684132993 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 775 ns
+2016/11/05 13:59:35 Unmarshal in 836 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"EezwoysVCM" type:301019053 reps:5061503452100425714 reps:1380694926156731843 reps:8008759195462624290 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 533 ns
+2016/11/05 13:59:35 Unmarshal in 3090 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"CmtTmQVlKN" type:1843437737 reps:8558976413885549260 reps:1163695681911376772 reps:4524821242860571986 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 535 ns
+2016/11/05 13:59:35 Unmarshal in 684 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"zZQWboxaTw" type:1292957488 reps:3226927712602588461 reps:4645828598830573076 reps:1606990680694587907 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 564 ns
+2016/11/05 13:59:35 Unmarshal in 844 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"ieYyWWyHTh" type:1889939299 reps:988213628987854628 reps:981935841162384367 reps:8026486794469503353 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 639 ns
+2016/11/05 13:59:35 Unmarshal in 601 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"QxwenKijlN" type:1041079641 reps:163329499668522749 reps:6147200329940932191 reps:7255175217270820008 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 506 ns
+2016/11/05 13:59:35 Unmarshal in 699 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"QCMNhvkoQx" type:1990791880 reps:4358915916561808030 reps:564841631035536206 reps:4375211308333789106 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 581 ns
+2016/11/05 13:59:35 Unmarshal in 683 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"vDWOgbRjaE" type:762364788 reps:3364157499302461432 reps:3329641499886803497 reps:136405631726378143 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 551 ns
+2016/11/05 13:59:35 Unmarshal in 771 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"MzIEcHQLSx" type:1797741393 reps:3165661070562149655 reps:769722637626986083 reps:557257300679298515 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 525 ns
+2016/11/05 13:59:35 Unmarshal in 710 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"plKzQFXzsi" type:1432545104 reps:7924759515301483471 reps:1180718695423831211 reps:2060653190967598668 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 521 ns
+2016/11/05 13:59:35 Unmarshal in 683 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"JwdXHfjPOe" type:1826079629 reps:6684527176581802807 reps:8441251801805393805 reps:7562859993677037924 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 559 ns
+2016/11/05 13:59:35 Unmarshal in 593 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"FJnfTNlyiV" type:436998750 reps:7610712650305777470 reps:4200421378641925075 reps:3549431819948739180 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 540 ns
+2016/11/05 13:59:35 Unmarshal in 3422 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"vScjwulpBu" type:799607602 reps:5128880961600592242 reps:1449173271312785792 reps:4831085930665792511 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 621 ns
+2016/11/05 13:59:35 Unmarshal in 779 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"KsCframWlo" type:295299691 reps:5749500246326607667 reps:6916640654177697243 reps:56455184960364465 )
+2016/11/05 13:59:35 Size of test (proto) 47 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 556 ns
+2016/11/05 13:59:35 Unmarshal in 692 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"UJWGTNxCPx" type:729428457 reps:7144885710435456450 reps:416647936409437962 reps:84535519824853909 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 533 ns
+2016/11/05 13:59:35 Unmarshal in 679 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"YbUbIbSmCD" type:1717017957 reps:8413825197703704807 reps:6008814717354540467 reps:4114467799014099190 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 509 ns
+2016/11/05 13:59:35 Unmarshal in 749 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"CzYWtWOtwZ" type:377711628 reps:5397617063996167188 reps:3888696355579043223 reps:3673056473934095152 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 502 ns
+2016/11/05 13:59:35 Unmarshal in 748 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"gPVFyhUgxk" type:481538454 reps:6434813930160684019 reps:3700400025673407101 reps:4913901428566065868 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 505 ns
+2016/11/05 13:59:35 Unmarshal in 637 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"ADnmstOUVr" type:2113700945 reps:597460021077120582 reps:4703746445464304223 reps:8019379525948335268 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 509 ns
+2016/11/05 13:59:35 Unmarshal in 655 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"qcJZXpmRQC" type:921988825 reps:2495937594776801093 reps:7014097243693291671 reps:9162211848252385634 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 684 ns
+2016/11/05 13:59:35 Unmarshal in 809 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"NgwQmAAwBj" type:1701195900 reps:2834412957433936959 reps:9144437857653546204 reps:8129366677098435025 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 555 ns
+2016/11/05 13:59:35 Unmarshal in 703 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"AIslTBuzQJ" type:1347981203 reps:7227515961116284363 reps:4258608433894175993 reps:7188252224309991401 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 2564 ns
+2016/11/05 13:59:35 Unmarshal in 691 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"XcKkEZSrxy" type:890803747 reps:8480588643075142222 reps:350816217579866648 reps:4779294429480673082 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
+2016/11/05 13:59:35 Serialization in 538 ns
+2016/11/05 13:59:35 Unmarshal in 775 ns
+2016/11/05 13:59:35 Test as proto object%!(EXTRA string=label:"ELccmzutAt" type:1845232412 reps:6907977971455873112 reps:264837578280389160 reps:3167421170130805639 )
+2016/11/05 13:59:35 Size of test (proto) 48 bytes vs 54 raw bytes
